@@ -72,7 +72,7 @@ I'm a Computer Science student with a strong focus on **software engineering, ap
   <img src="https://streak-stats.demolab.com?user=AbhiPatil-02&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-> 📌 Stats above are generated via a scheduled GitHub Action (see [`.github/workflows/user-statistician.yml`](.github/workflows/user-statistician.yml)) instead of the public `github-readme-stats` API, which fixes the intermittent loading failures caused by that service's rate limits.
+
 
 ---
 
@@ -94,7 +94,7 @@ I'm a Computer Science student with a strong focus on **software engineering, ap
   </picture>
 </p>
 
-> 📌 Generated daily via [`.github/workflows/pacman-contribution-graph.yml`](.github/workflows/pacman-contribution-graph.yml), which builds the SVG and publishes it to the `output` branch.
+
 
 ---
 
